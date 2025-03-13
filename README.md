@@ -1,4 +1,3 @@
-"# backend_durga" 
 # PubMed Fetcher
 
 ## Overview
